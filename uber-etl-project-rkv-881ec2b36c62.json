@@ -1,14 +1,14 @@
 {
   "type": "service_account",
   "project_id": "uber-etl-project-rkv",
-  "private_key_id": "881ec2b36c625b723d9f3f35467de054f1a80ded",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBdqSBNWBU/22S\nZhEqtbeCAlkef/VYeSxhGrAMDELqXGlmqNFCcWX1dxF+TJcJ93+BYbdMOH44ZZC9\neBEuC+Zbrv/DMvhTiykH7E0GdanfLsz9oO3d4Im6T92XjfOc0y3nV5/Wr+3XuJX8\nvBYu2w+e08qzFyXUFMudOkNWB7Y+TwNw80fYbk25qSzYNS2KlL3b0SUncaJA7pXO\n1vEzgmW9YYijnxkI8mo515HGZiQdAbI1HTyoawAoXDGjKxz08kh8io88/fKVuJzH\nIRq0IQtna92VOwoXqxa3BY9O3pv0lF0/fPR1s/zUcGZmL5SeOGQctYmOBX0ofqqf\nhiB1X7mTAgMBAAECggEAUWezW90SXmGmgQIqug6Bm5aSWmecXLCMMIXyyvcD1yqw\nfS6O8wbVUL7b4QmoSlzWzaHI560jy2ZNS7RwgjAmq7CM1V2mqTy2tKtFU/EB3DQM\ntLJZNNINEhUWGHX2Kqifuacgzkzz5yA4GIMqUGgEACB9O/ODCuT/Mnb4K4SONlP8\nfRYJJFeV+hN/e5dJjH+F9DeyIX/Cvjt565BXb+XDZia+PzUjKU6XJNhjrG8c0pVi\n0MzWZ1drOiNAF1SvJfdGU9xtLJrnAJIJvgVxefS8sPL+BnOQYZw1faxt1d+6jJ6c\n3k9jE9VZ0vtcxVUW0YQyErmTJIYmM21OZ/niUsWSSQKBgQDrCfuO1EtmC05U+vI5\nBkkmza08cV2PknaVghjtXQGxm1I0Gt3C1TniirBgcnX7ZrHw+w5lXeV00QNVBQvH\nSYY44v82a2qhunVVGry0D/bZtGtCQ+f8RMjh+D5oSmAJq4ekSQmn+CpAojicECaG\nftzCy72rihrQa7pm2cdPxNsAGwKBgQDSt3oAgMo5QGsCbWCKJE49qhfWaYByvqzg\nkucaS+pnoWR6LtV8vfXSv9D10uOG2hi6qptcIgsqwL/hdniUW634KuUL0qzAQYWy\n52PosQUpbRVwR+3OvzroHhqZgCkuFUtCZJR9/cl6K6TGCT7YfMjbMYwyTnMHqV+0\njo7suAnz6QKBgQCODGJ0V+mZqouU4HUz8ZCUWwmv1fPtqV7xzMaz7dnwNSbhRrtv\n3N43BArEv2h+n/o64gA5Ux4yE4AoCfysXMs55jbH9PNk+wOeg6I4UM2nlVqdmdzC\noe+mYhmVfh28umYn69xiH6GpnmEIMNqXvmQ9dlUTL0w1WmY1crj6hMa2sQKBgAwA\noXVn4Jz0O2QvAMG9oatHhgYTilp+2/AKzhkkW9y9R7Dh/A0X8OmpPWjTM1yaDbCM\nST8tPT+ZLRTVn7arpjQtlVBgFrD4ynnPTlSRyL58VS1JG5WcNOnF1TQLJc1XLys/\n+WlXzGMmG0OggTDporNBlj/DUjAMiMQLHr8DGKYJAoGBAMEAWg/ioTqqr9WNXpsA\n7Ot4JWnI9n6FRcg+9CfKkFrRktbfo+gzU2WbK/3J3ocaUHwFQqkOFfEYLAP+TwJ7\nc0OJr/ZVj0sg3APxisBl9FRKJ4+wAJx63B0s6P9Cda/hZnugHFvreLdvECKelj92\nL0ASt4eoUfZSUqdFbaOP3bAC\n-----END PRIVATE KEY-----\n",
-  "client_email": "uber-de-project-rkvgtm@uber-etl-project-rkv.iam.gserviceaccount.com",
-  "client_id": "118351245041108597496",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
+  "private_key_id": "your key",
+  "private_key": "your own key\n",
+  "client_email": "your own client mail",
+  "client_id": "your own clien Id ",
+  "auth_uri": "your own auth url",
+  "token_uri": "your own token url",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-de-project-rkvgtm%40uber-etl-project-rkv.iam.gserviceaccount.com",
+  "client_x509_cert_url": "",
   "universe_domain": "googleapis.com"
 }
 

@@ -1,6 +1,6 @@
 {
   "type": "service_account",
-  "project_id": "uber-etl-project-rkv",
+  "project_id": "your project idv",
   "private_key_id": "your key",
   "private_key": "your own key\n",
   "client_email": "your own client mail",
@@ -14,16 +14,16 @@
 
 
 
-website
-http://yourgoogleip/pipelines/still_crystal/edit?sideview=tree#
+#website
+#http://yourgoogleip/pipelines/still_crystal/edit?sideview=tree#
 
-source myenv/bin/activate
-mage start uber-data-engineering-project-rkvgtm
+#source myenv/bin/activate
+#mage start uber-data-engineering-project-rkvgtm
 
-TCP ingress traffic from the IP range yourgoogleip, port: 22
-lookerstudio
+#TCP ingress traffic from the IP range yourgoogleip, port: 22
+#lookerstudio
 
-creating a analytics table
+#creating a analytics table
 
 CREATE OR REPLACE TABLE `uber-etl-project-rkv.uber_data_engineering_rkvgtm.tbl-analytics` AS (
     SELECT 

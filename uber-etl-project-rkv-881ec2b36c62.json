@@ -15,12 +15,12 @@
 
 
 website
-http://34.131.238.100:6789/pipelines/still_crystal/edit?sideview=tree#
+http://yourgoogleip/pipelines/still_crystal/edit?sideview=tree#
 
 source myenv/bin/activate
 mage start uber-data-engineering-project-rkvgtm
 
-TCP ingress traffic from the IP range 35.235.240.0/20, port: 22
+TCP ingress traffic from the IP range yourgoogleip, port: 22
 lookerstudio
 
 creating a analytics table
